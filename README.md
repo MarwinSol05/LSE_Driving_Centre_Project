@@ -5,7 +5,7 @@ test in UK. There are two sensible options for XYZ:
 1. either take the practical test at the nearest test centre to his/her home;
 2. or take it at the nearest test centre to the LSE.
 
-Note that in XYZ's generated profile, the entry "Home address" actually gives the
+Note that in XYZ's generated profile the entry "Home address" actually gives the
 name of the nearest test driving test centre to XYZ's home. In addition, the test centre
 closest to the LSE is Wood Green (London).
 
