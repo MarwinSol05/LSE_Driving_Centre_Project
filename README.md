@@ -20,3 +20,9 @@ questions:
 2. What is XYZ's expected passing rate at the nearest test centre to the LSE?
 3. Of these two locations, where should XYZ take the test? Is there any evidence to
 (statistically) support this suggestion?
+
+
+Result: 
+### 1. Expected Passing Rate in St. Albans: 47.45672%
+### 2. Expected Passing Rate in Wood Green: 45.20918%
+### 3. St. Albans is the preferred destination for taking the test. It is supported by initial exploratory data analysis, statistical analysis and logistic regression model.
